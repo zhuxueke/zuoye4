@@ -1,0 +1,96 @@
+body{
+		color:white;
+		text-align: center;
+	}
+		#bg{
+			width: 590px;
+			height: 548px;
+			margin: 0 auto;
+			background-color: #666666;
+			border-radius: 20px;
+			box-shadow: 0 0 5px blue;
+			border:1px solid transparent;
+		}
+
+		.mingzi{
+			width: 120px;
+			height: 22px;
+			margin-top: 22px;
+			margin-left: 20px;
+			margin-bottom: 19px;
+
+		}
+
+		.screen{
+			width: 530px;
+			height: 55px;
+			background-color: white;
+			margin-left: 0px;
+			border-radius: 5px;
+			margin-bottom: 40px;
+			
+
+		}
+
+		.all{
+			width: 514px;
+			height: 323px;
+			margin-left: 31px;
+			margin-right: 42px;
+			background-color: #666666;
+		}
+
+		.box1{
+			width: 90px;
+			height: 69px;
+			float: left;
+			margin-right: 16px;
+			margin-bottom: 17px;
+			border-radius: 5px;
+			box-shadow: 0 0 5px white;
+			background-color: #666666;
+		}
+
+		.box2{
+			width: 90px;
+			height: 69px;
+			float: left;
+			margin-right: 16px;
+			margin-bottom: 17px;
+			border-radius: 5px;
+			box-shadow: 0 0 5px white;
+			background-color: #666666;
+		}
+
+		.box3{
+			width: 90px;
+			height: 69px;
+			float: left;
+			margin-right: 16px;
+			margin-bottom: 17px;
+			border-radius: 5px;
+			box-shadow: 0 0 5px white;
+			background-color: #666666;
+		}
+
+		.box4{
+			width: 90px;
+			height: 69px;
+			float: left;
+			margin-right: 16px;
+			margin-bottom: 17px;
+			border-radius: 5px;
+			box-shadow: 0 0 5px white;
+			background-color: #ff66ff;
+		}
+
+		.box5{
+			width: 90px;
+			height: 69px;
+			float: left;
+			margin-bottom: 17px;
+			border-radius: 5px;
+			box-shadow: 0 0 5px white;
+			background-color: #ff66ff;
+		}
+		
